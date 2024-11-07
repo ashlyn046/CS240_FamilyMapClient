@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapFragment">
+
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/map"
+        class="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/mapLinearLayout"
+        tools:layout="@layout/fragment_map" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mapLinearLayout"
+        android:layout_alignParentBottom="true"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            android:id="@+id/mapLogoType"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="8dp"
+            android:src="@drawable/baseline_android_24"
+            android:contentDescription="@string/genderContentDescription" />
+
+        <TextView
+            android:id="@+id/mapEventInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="@string/mapFragmentClickMessage"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+</RelativeLayout>

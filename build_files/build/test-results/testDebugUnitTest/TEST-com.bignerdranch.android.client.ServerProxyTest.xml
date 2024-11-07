@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bignerdranch.android.client.ServerProxyTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-05-04T21:31:00" hostname="MacBook-Air-327.app.byu.edu" time="0.214">
+  <properties/>
+  <testcase name="GetPeopleTestFail" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.072"/>
+  <testcase name="GetPeopleTestPass" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.037"/>
+  <testcase name="LoginTestFail" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.006"/>
+  <testcase name="LoginTestPass" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.017"/>
+  <testcase name="ClearTestPass" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.016"/>
+  <testcase name="GetEventsTestFail" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.004"/>
+  <testcase name="GetEventsTestPass" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.026"/>
+  <testcase name="RegisterTestFail" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.019"/>
+  <testcase name="RegisterTestPass" classname="com.bignerdranch.android.client.ServerProxyTest" time="0.017"/>
+  <system-out><![CDATA[Successfully cleared
+Successfully cleared
+Successfully registered user
+Successfully logged in
+Successfully cleared
+Successfully cleared
+Successfully registered user
+Successfully logged in
+Successfully registered user
+Successfully cleared
+Successfully cleared
+Successfully cleared
+Successfully registered user
+Successfully logged in
+Successfully cleared
+Successfully registered user
+Successfully cleared
+Successfully registered user
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

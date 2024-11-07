@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_marker_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_marker_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_back_arrow_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_back_arrow_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_search_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_fragment_map.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_my_button_background.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/my_button_background.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_activity_settings.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_android_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_android_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_man_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_man_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_activity_search.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_woman_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_woman_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_item_expandable_list.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/item_expandable_list.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_item_event.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_item_person.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/item_person.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_activity_person.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/activity_person.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_activity_event.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/activity_event.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/menu_return_header.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/menu/return_header.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/layout_fragment_login.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.client.app-merged_res-28:/menu_item_header.xml.flat",
+        "source": "com.bignerdranch.android.client.app-main-30:/menu/item_header.xml"
+    }
+]

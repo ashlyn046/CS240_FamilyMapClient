@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:stretchColumns="3">
+
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:gravity="end"
+                android:text="@string/host" />
+
+            <EditText
+                android:id="@+id/serverHostID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="textUri" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="end"
+                android:text="@string/port" />
+
+            <EditText
+                android:id="@+id/serverPortID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="number" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="end"
+                android:text="@string/username" />
+
+            <EditText
+                android:id="@+id/usernameID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="textPersonName"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="end"
+                android:text="@string/password" />
+
+            <EditText
+                android:id="@+id/passwordID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="textPassword" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="end"
+                android:text="@string/firstName" />
+
+            <EditText
+                android:id="@+id/firstNameID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="textPersonName" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="end"
+                android:text="@string/lastName" />
+
+            <EditText
+                android:id="@+id/lasNameID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="textPersonName" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="end"
+                android:text="@string/email" />
+
+            <EditText
+                android:id="@+id/emailID"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_span="3"
+                android:inputType="textEmailAddress" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+
+                android:gravity="center|center_vertical"
+                android:text="@string/gender" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/genderID"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:id="@+id/maleID"
+                    android:text="@string/male" />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:id="@+id/femaleID"
+                    android:text="@string/female" />
+
+            </RadioGroup>
+        </TableRow>
+
+        <Button
+            android:id="@+id/signInID"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:enabled="false"
+            android:text="@string/signIn" />
+
+        <Button
+            android:id="@+id/registerID"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:enabled="false"
+            android:text="@string/register" />
+
+    </TableLayout>
+</ScrollView>
