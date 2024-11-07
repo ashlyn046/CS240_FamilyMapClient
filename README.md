@@ -76,3 +76,8 @@ The Family Map Client includes six main views to help users explore family event
 3. **Source Code Review**: Code will be evaluated based on naming, organization, decomposition, and layout.
 
 Ensure you meet all requirements and test thoroughly before submission.
+
+## File Structure
+- Find all java files in **main/java**
+- Find all resource files in **main/res**
+- Find .xml file in **main**
