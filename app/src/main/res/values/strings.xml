@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">familyMapClient</string>
+
+    <string name="hello_blank_fragment">Empty Map Page</string>
+    <string name="firstHeader">FirstHeader</string>
+    <string name="host">Server Host</string>
+    <string name="port">Server Port</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="fullName">Full Name:</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="signIn">Sign In</string>
+    <string name="register">Register</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="login_fail">Login failed, try again</string>
+    <string name="firstNameResult">%s</string>
+    <string name="register_fail">Register failed, try again</string>
+    <string name="genderContentDescription">\"Gender Logo\"</string>
+    <string name="mapFragmentClickMessage">click marker to see event details</string>
+
+
+
+    <string name="returnToLoginScreen">RETURN TO LOGIN SCREEN</string>
+    <string name="logout">Logout</string>
+    <string name="maleEvents">Male Events</string>
+    <string name="filterMaleEvents">FILTER EVENTS FOR MALES</string>
+    <string name="femaleEvents">Female Events</string>
+    <string name="filterFemaleEvents">FILTER EVENTS FOR FEMALES</string>
+    <string name="lifeStoryLines">Life Story Lines</string>
+    <string name="displayLifeStoryLines">DISPLAY LIFE STORY LINES</string>
+    <string name="familyTreeLines">Family Tree Lines</string>
+    <string name="displayFamilyTreeLines">DISPLAY FAMILY TREE LINES</string>
+    <string name="spouseLines">Spouse Lines</string>
+    <string name="displaySpouseLines">DISPLAY SPOUSE LINES</string>
+    <string name="fatherSide">Father\'s Side</string>
+    <string name="filterFathersSide">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="motherSide">Mother\'s Side</string>
+    <string name="filterMothersSide">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+    <string name="eventGroupTitle">Life Events</string>
+    <string name="noEventSelected">Please select an event marker</string>
+    <string name="personGroupTitle">Immediate Family Members</string>
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="spouse">Spouse</string>
+    <string name="child">Child</string>
+
+
+
+
+    <string name="lastNameResult">%s</string>
+    <string name="loginFail">Login failed, please try again</string>
+    <string name="registerFail">Register failed, please try again</string>
+    <string name="mapFragmentMenuSearch">Search</string>
+    <string name="mapFragmentMenuSettings">Settings</string>
+    <string name="backArrow">BackArrow</string>
+    <string name="associatedName">Associated Persons Name</string>
+</resources>
